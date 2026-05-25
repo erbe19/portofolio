@@ -13,7 +13,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rizky Bachtiar — Portfolio 2025",
+  title: "Rizky Bachtiar — Portfolio 2026",
   description:
     "Informatics Graduate & AI Enthusiast. Fullstack Developer specializing in React, Laravel, and Machine Learning.",
 };

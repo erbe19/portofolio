@@ -61,7 +61,7 @@ const Header = ({
               ERBE<span className="text-accent">.</span>
             </span>
             <span className="text-[8px] font-bold tracking-widest uppercase" style={{ color: "var(--text-muted)" }}>
-              Portfolio 2025
+              Portfolio 2026
             </span>
           </div>
         </div>

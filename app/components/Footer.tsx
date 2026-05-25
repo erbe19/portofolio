@@ -19,7 +19,7 @@ const Footer = () => {
         </span>
         <span className="text-[10px] font-bold uppercase tracking-[0.3em]"
           style={{ color: "var(--text-muted)" }}>
-          © 2025 RIZKY BACHTIAR. ALL RIGHTS RESERVED.
+          © 2026 RIZKY BACHTIAR. ALL RIGHTS RESERVED.
         </span>
         <div className="flex gap-6">
           {[
