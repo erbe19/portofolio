@@ -37,13 +37,13 @@ const Hero = ({ scrollToSection }: HeroProps) => {
           </div>
 
           <div className="relative">
-            <h1 className="text-8xl md:text-[10rem] font-black leading-[0.85] tracking-tighter italic"
+            <h1 className="text-8xl md:text-[9rem] font-black leading-[0.85] tracking-tighter italic"
               style={{ color: "var(--text-primary)" }}>
               RIZKY
             </h1>
-            <h1 className="text-5xl md:text-[8rem] font-black leading-[0.85] tracking-tighter italic"
+            <h1 className="text-6xl md:text-[5rem] font-black leading-[0.85] tracking-tighter italic"
               style={{ color: "var(--text-primary)" }}>
-              Bachtiar
+              BACHTIAR
             </h1>
             <div className="absolute -inset-4 rounded-2xl -z-10 opacity-40"
               style={{ border: "1px solid var(--accent-border)" }} />
