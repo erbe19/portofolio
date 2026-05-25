@@ -25,6 +25,8 @@ const Contact = () => {
         <div className="flex flex-wrap justify-center gap-4">
           <a
             href={SOCIAL_LINKS.email}
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-10 py-4 bg-white rounded-xl font-black uppercase text-xs tracking-widest hover:scale-105 transition-transform shadow-lg"
             style={{ color: "var(--accent)" }}
           >
