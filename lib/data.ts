@@ -9,11 +9,11 @@ export const SOCIAL_LINKS = {
 };
 
 export const sections = [
-  { id: "home", label: "Beranda" },
-  { id: "about", label: "Tentang" },
-  { id: "skills", label: "Keahlian" },
-  { id: "projects", label: "Proyek" },
-  { id: "contact", label: "Kontak" },
+  { id: "home", label: "Home" },
+  { id: "about", label: "About" },
+  { id: "skills", label: "Skills" },
+  { id: "projects", label: "Projects" },
+  { id: "contact", label: "Contact" },
 ];
 
 export const projects = [
